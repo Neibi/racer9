@@ -1,3 +1,4 @@
+# Adapted from:
 # file: rfcomm-client.py auth: Albert Huang <albert@csail.mit.edu> desc: simple demonstration of a client application that uses RFCOMM sockets
 #       intended for use with rfcomm-server
 #
